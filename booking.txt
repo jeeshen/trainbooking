@@ -1,0 +1,10 @@
+1002|2020|T0001|02-05-2024|KL Sentral|Melaka|First Class|4|5|Debit Card|350
+1002|2021|T0002|02-05-2024|KL Sentral|Johor|Economy|3|9|Bank Transfer|225
+1002|2022|T0003|02-05-2024|KL Sentral|Langkawi|Sleeper|3|5|E-Wallet|275
+1003|2023|T0001|02-05-2024|KL Sentral|Melaka|Off-peak|4|7|Bank Transfer|105
+1003|2024|T0002|02-05-2024|KL Sentral|Johor|Off-peak|4|5|Debit Card|75
+1003|2025|T0003|02-05-2024|KL Sentral|Langkawi|Business|4|8|E-Wallet|400
+1006|2026|T0003|02-05-2024|KL Sentral|Langkawi|First Class|4|5|Bank Transfer|350
+1006|2027|T0005|03-05-2024|KL Sentral|Bentong|Economy|8|6|E-Wallet|150
+1004|2028|T0003|03-05-2024|KL Sentral|Langkawi|Business|6|5|E-Wallet|250
+1004|2029|T0005|03-05-2024|KL Sentral|Bentong|First Class|5|5|Debit Card|350

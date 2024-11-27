@@ -1,0 +1,5 @@
+T0001|KL Sentral|Melaka|820|1020|200
+T0002|KL Sentral|Johor|930|1330|200
+T0003|KL Sentral|Langkawi|1300|1600|200
+T0004|KL Sentral|Seremban|920|1100|200
+T0005|KL Sentral|Bentong|820|1000|200
